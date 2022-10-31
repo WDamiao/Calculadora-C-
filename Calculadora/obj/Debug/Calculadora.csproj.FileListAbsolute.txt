@@ -1,0 +1,11 @@
+C:\Users\Bia\Documents\C#\primeiro projeto\Calculadora C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Bia\Documents\C#\primeiro projeto\Calculadora C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bia\Documents\C#\primeiro projeto\Calculadora C#\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Bia\Documents\C#\primeiro projeto\Calculadora C#\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Bia\Documents\C#\primeiro projeto\Calculadora C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Bia\Documents\C#\primeiro projeto\Calculadora C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Bia\Documents\C#\primeiro projeto\Calculadora C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Bia\Documents\C#\primeiro projeto\Calculadora C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Bia\Documents\C#\primeiro projeto\Calculadora C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Bia\Documents\C#\primeiro projeto\Calculadora C#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Bia\Documents\C#\primeiro projeto\Calculadora C#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
